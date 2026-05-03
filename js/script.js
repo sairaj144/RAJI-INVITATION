@@ -35,7 +35,7 @@ var x = setInterval(function() {
     // If the count down is over, write some text 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("time").innerHTML = "We are Married";
+        document.getElementById("time").innerHTML = "We are Married  🩷 , Thank you everyone who showered us with love & blessings";
     }
 }, 1000);
 
