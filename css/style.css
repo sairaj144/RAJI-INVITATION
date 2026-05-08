@@ -476,6 +476,8 @@ body {
 @media (max-width: 768px) {
   body {
     background: url("../img/raji1.jpg") center/cover no-repeat;
+	background-position: 30% center;
+    background-size: cover;
   }
 }
 
